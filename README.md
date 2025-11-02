@@ -67,8 +67,8 @@ https://github.com/mavwolverine/mavwolverine/blob/main/%5Bgh%5D
 | [**3dcarousel**]([gh]/3dcarousel) | 3D carousel  | <img src="[shields top lang]/3dcarousel?style=social"/> | <img src="[shields stars]/3dcarousel?style=social"/> |
 | [**flexopenlayers**]([gh]/flexopenlayers) | Attempt to port the OpenLayers javascript API to actionscript for use in flex apps. | <img src="[shields top lang]/flexopenlayers?style=social"/> | <img src="[shields stars]/flexopenlayers?style=social"/> |
 
+[shields top lang]: [shields]/languages/top/[username]
+[shields stars]: [shields]/stars/[username]
 [gh]: https://github.com/[username]
 [username]: mavwolverine
 [shields]: https://img.shields.io/github
-[shields top lang]: [shields]/languages/top/[username]
-[shields stars]: [shields]/stars/[username]

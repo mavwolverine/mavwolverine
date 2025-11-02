@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 🌱 Exploring **Agentic AI**, **rust**, **react**<br>
 👯 Looking to collaborate on **open source projects** and **developer tools**<br>
 💬 Ask me about **Python**, **AWS**, **FastAPI**, **Docker**, and **system architecture**<br>
-⚡ Fun fact: Fun fact: I've been contributing to open source since 2010 (15+ years!) and documenting technical solutions since 2005 on my [blog](https://viraj-workstuff.blogspot.com/)
+⚡ Fun fact: Fun fact: I've been contributing to open source since 2010 (14+ years!) and documenting technical solutions since 2005 on my [blog](https://viraj-workstuff.blogspot.com/)
 
 ## 🛠️ Tech Stack
 

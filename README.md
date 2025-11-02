@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Variables -->
-Check out my [profile][username] or visit [my repos]([gh])
+Check out my [profile][username] or visit [my repos][gh]
 
 
 

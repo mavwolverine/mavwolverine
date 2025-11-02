@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Variables -->
-Check out my [profile][username] or visit [my repos][gh]
-
-
-
 # Hi there, I'm Viraj Kanwade 👋
 
 **Principal Technology Architect | Python | DevOps | System Integration | Open Source Contributor**
@@ -67,6 +62,7 @@ https://github.com/mavwolverine/mavwolverine/blob/main/%5Bgh%5D
 | [**3dcarousel**]([gh]/3dcarousel) | 3D carousel  | <img src="[shields top lang]/3dcarousel?style=social"/> | <img src="[shields stars]/3dcarousel?style=social"/> |
 | [**flexopenlayers**]([gh]/flexopenlayers) | Attempt to port the OpenLayers javascript API to actionscript for use in flex apps. | <img src="[shields top lang]/flexopenlayers?style=social"/> | <img src="[shields stars]/flexopenlayers?style=social"/> |
 
+<!-- Variables -->
 [username]: mavwolverine
 [gh]: https://github.com/mavwolverine
 [shields]: https://img.shields.io/github

@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <!-- Variables -->
-[username]: mavwolverine
-[gh]: https://github.com/[username]
-[shields]: https://img.shields.io/github
-[shields_top_lang]: [shields]/languages/top/[username]
-[shields_stars]: [shields]/stars/[username]
+Check out my [profile][username] or visit [my repos](https://github.com/[username])
+
+
 
 # Hi there, I'm Viraj Kanwade 👋
 
 **Principal Technology Architect | Python | DevOps | System Integration | Open Source Contributor**
 
 > 21+ years of experience building scalable systems, cloud architecture, and driving digital transformation. Passionate about open source, automation, and solving complex technical challenges. Recent focus on GenAI and using AI tools to improve productivity.
-
+https://github.com/mavwolverine/mavwolverine/blob/main/%5Bgh%5D
 [![GitHub followers]([shields]/followers/mavwolverine?label=Follow&style=social)]([gh])
 [![GitHub stars]([shields_stars]?label=Stars&style=social)]([gh])
 
@@ -68,3 +66,9 @@ Here are some ideas to get you started:
 | [**Django-Admin-Collapsed-Inlines**]([gh]/Django-Admin-Collapsed-Inlines) | Collapsible inlines for Django Admin | <img src="[shields_top_lang]/Django-Admin-Collapsed-Inlines?style=social"/> | <img src="[shields_stars]/Django-Admin-Collapsed-Inlines?style=social"/> |
 | [**3dcarousel**]([gh]/3dcarousel) | 3D carousel  | <img src="[shields_top_lang]/3dcarousel?style=social"/> | <img src="[shields_stars]/3dcarousel?style=social"/> |
 | [**flexopenlayers**]([gh]/flexopenlayers) | Attempt to port the OpenLayers javascript API to actionscript for use in flex apps. | <img src="[shields_top_lang]/flexopenlayers?style=social"/> | <img src="[shields_stars]/flexopenlayers?style=social"/> |
+
+[username]: mavwolverine
+[gh]: https://github.com/[username]
+[shields]: https://img.shields.io/github
+[shields_top_lang]: [shields]/languages/top/[username]
+[shields_stars]: [shields]/stars/[username]

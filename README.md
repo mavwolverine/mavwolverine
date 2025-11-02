@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Variables -->
-Check out my [profile] or visit [my repos]([gh])
+Check out my [profile][username] or visit [my repos]([gh])
 
 
 
@@ -27,7 +27,7 @@ Check out my [profile] or visit [my repos]([gh])
 > 21+ years of experience building scalable systems, cloud architecture, and driving digital transformation. Passionate about open source, automation, and solving complex technical challenges. Recent focus on GenAI and using AI tools to improve productivity.
 https://github.com/mavwolverine/mavwolverine/blob/main/%5Bgh%5D
 [![GitHub followers]([shields]/followers/mavwolverine?label=Follow&style=social)]([gh])
-[![GitHub stars]([shields_stars]?label=Stars&style=social)]([gh])
+[![GitHub stars]([shields stars]?label=Stars&style=social)]([gh])
 
 ## 🚀 About Me
 
@@ -55,20 +55,20 @@ https://github.com/mavwolverine/mavwolverine/blob/main/%5Bgh%5D
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
-| [**fastapi_swagger2**]([gh]/fastapi_swagger2) | Swagger2 support for FastAPI - enables legacy API gateway compatibility | <img src="[shields_top_lang]/fastapi_swagger2?style=social"/> | <img src="[shields_stars]/fastapi_swagger2?style=social"/> |
-| [**aws-cloudmap-prometheus-sd-api**]([gh]/aws-cloudmap-prometheus-sd-api) | Rust-based HTTP API for Prometheus service discovery with AWS Cloud Map | <img src="[shields_top_lang]/aws-cloudmap-prometheus-sd-api?style=social"/> | <img src="[shields_stars]/aws-cloudmap-prometheus-sd-api?style=social"/> |
-| [**nuget_dll_download**]([gh]/nuget_dll_download) | NuGet package DLL downloader for use with pythonnet | <img src="[shields_top_lang]/nuget_dll_download?style=social"/> | <img src="[shields_stars]/nuget_dll_download?style=social"/> |
-| [**wsh_async**]([gh]/wsh_async) | Asynchronous WebSocket shell interface | <img src="[shields_top_lang]/wsh_async?style=social"/> | <img src="[shields_stars]/wsh_async?style=social"/> |
-| [**venvwrapper**]([gh]/venvwrapper) | Port of virtualenvwrapper for Python 3 venv | <img src="[shields_top_lang]/venvwrapper?style=social"/> | <img src="[shields_stars]/venvwrapper?style=social"/> |
-| [**zgen-setup-helper**]([gh]/zgen-setup-helper) | oh-my-zsh like install script for zgen | <img src="[shields_top_lang]/zgen-setup-helper?style=social"/> | <img src="[shields_stars]/zgen-setup-helper?style=social"/> |
-| [**cryptojsaesdecrypt**]([gh]/cryptojsaesdecrypt) | CryptoJS AES Decrypt JSON | <img src="[shields_top_lang]/cryptojsaesdecrypt?style=social"/> | <img src="[shields_stars]/cryptojsaesdecrypt?style=social"/> |
-| [**alembic-templates-pyramid**]([gh]/alembic-templates-pyramid) | Pyramid framework templates for Alembic | <img src="[shields_top_lang]/alembic-templates-pyramid?style=social"/> | <img src="[shields_stars]/alembic-templates-pyramid?style=social"/> |
-| [**Django-Admin-Collapsed-Inlines**]([gh]/Django-Admin-Collapsed-Inlines) | Collapsible inlines for Django Admin | <img src="[shields_top_lang]/Django-Admin-Collapsed-Inlines?style=social"/> | <img src="[shields_stars]/Django-Admin-Collapsed-Inlines?style=social"/> |
-| [**3dcarousel**]([gh]/3dcarousel) | 3D carousel  | <img src="[shields_top_lang]/3dcarousel?style=social"/> | <img src="[shields_stars]/3dcarousel?style=social"/> |
-| [**flexopenlayers**]([gh]/flexopenlayers) | Attempt to port the OpenLayers javascript API to actionscript for use in flex apps. | <img src="[shields_top_lang]/flexopenlayers?style=social"/> | <img src="[shields_stars]/flexopenlayers?style=social"/> |
+| [**fastapi_swagger2**]([gh]/fastapi_swagger2) | Swagger2 support for FastAPI - enables legacy API gateway compatibility | <img src="[shields top lang]/fastapi_swagger2?style=social"/> | <img src="[shields stars]/fastapi_swagger2?style=social"/> |
+| [**aws-cloudmap-prometheus-sd-api**]([gh]/aws-cloudmap-prometheus-sd-api) | Rust-based HTTP API for Prometheus service discovery with AWS Cloud Map | <img src="[shields top lang]/aws-cloudmap-prometheus-sd-api?style=social"/> | <img src="[shields stars]/aws-cloudmap-prometheus-sd-api?style=social"/> |
+| [**nuget_dll_download**]([gh]/nuget_dll_download) | NuGet package DLL downloader for use with pythonnet | <img src="[shields top lang]/nuget_dll_download?style=social"/> | <img src="[shields stars]/nuget_dll_download?style=social"/> |
+| [**wsh_async**]([gh]/wsh_async) | Asynchronous WebSocket shell interface | <img src="[shields top lang]/wsh_async?style=social"/> | <img src="[shields stars]/wsh_async?style=social"/> |
+| [**venvwrapper**]([gh]/venvwrapper) | Port of virtualenvwrapper for Python 3 venv | <img src="[shields top lang]/venvwrapper?style=social"/> | <img src="[shields stars]/venvwrapper?style=social"/> |
+| [**zgen-setup-helper**]([gh]/zgen-setup-helper) | oh-my-zsh like install script for zgen | <img src="[shields top lang]/zgen-setup-helper?style=social"/> | <img src="[shields stars]/zgen-setup-helper?style=social"/> |
+| [**cryptojsaesdecrypt**]([gh]/cryptojsaesdecrypt) | CryptoJS AES Decrypt JSON | <img src="[shields top lang]/cryptojsaesdecrypt?style=social"/> | <img src="[shields stars]/cryptojsaesdecrypt?style=social"/> |
+| [**alembic-templates-pyramid**]([gh]/alembic-templates-pyramid) | Pyramid framework templates for Alembic | <img src="[shields top lang]/alembic-templates-pyramid?style=social"/> | <img src="[shields stars]/alembic-templates-pyramid?style=social"/> |
+| [**Django-Admin-Collapsed-Inlines**]([gh]/Django-Admin-Collapsed-Inlines) | Collapsible inlines for Django Admin | <img src="[shields top lang]/Django-Admin-Collapsed-Inlines?style=social"/> | <img src="[shields stars]/Django-Admin-Collapsed-Inlines?style=social"/> |
+| [**3dcarousel**]([gh]/3dcarousel) | 3D carousel  | <img src="[shields top lang]/3dcarousel?style=social"/> | <img src="[shields stars]/3dcarousel?style=social"/> |
+| [**flexopenlayers**]([gh]/flexopenlayers) | Attempt to port the OpenLayers javascript API to actionscript for use in flex apps. | <img src="[shields top lang]/flexopenlayers?style=social"/> | <img src="[shields stars]/flexopenlayers?style=social"/> |
 
 [username]: mavwolverine
 [gh]: https://github.com/[username]
 [shields]: https://img.shields.io/github
-[shields_top_lang]: [shields]/languages/top/[username]
-[shields_stars]: [shields]/stars/[username]
+[shields top lang]: [shields]/languages/top/[username]
+[shields stars]: [shields]/stars/[username]

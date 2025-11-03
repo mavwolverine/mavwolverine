@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 **Libraries**: SuperTokens, ffmpeg/libAV, OpenLayers<br>
 **Security & Compliance**: ISO, SOC2, HIPAA
 
-## 🏆 Open Source Contributions
+## 🏆 Open Source
 
 ### 📦 Created Projects
 
@@ -63,4 +63,44 @@ Here are some ideas to get you started:
 | [**3dcarousel**](https://github.com/mavwolverine/3dcarousel) | 3D carousel  | <img src="https://img.shields.io/github/languages/top/mavwolverine/3dcarousel?style=social"/> | <img src="https://img.shields.io/github/stars/mavwolverine/3dcarousel?style=social"/> |
 | [**flexopenlayers**](https://github.com/mavwolverine/flexopenlayers) | Attempt to port the OpenLayers javascript API to actionscript for use in flex apps. | <img src="https://img.shields.io/github/languages/top/mavwolverine/flexopenlayers?style=social"/> | <img src="https://img.shields.io/github/stars/mavwolverine/flexopenlayers?style=social"/> |
 
-[username]: mavwolverine
+### 🤝 Major Contributions
+
+#### [SuperTokens](https://github.com/supertokens) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+- **[Performance Optimization](https://github.com/supertokens/supertokens-python/issues/503)**: Improved FastAPI middleware performance by 50%
+- **[Query Optimization](https://github.com/supertokens/supertokens-core/pull/1095)**: Rewrote database queries eliminating system bottlenecks
+- **[Bug Fixes](https://github.com/supertokens/supertokens-python/pull/555)**: Fixed critical DST-related test failures and authentication issues
+
+#### [pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using Pydantic.
+- **[AWS Secrets Manager Support](https://github.com/pydantic/pydantic-settings/releases/tag/v2.9.0)**: Added native integration for AWS Secrets Manager
+
+#### [appmap-python](https://github.com/getappmap/appmap-python) - appmap-python is a Python package for recording [AppMaps](https://github.com/applandinc/appmap) of your code.
+- **[Initial R&D](https://github.com/getappmap/appmap-python/issues?q=commenter%3Amavwolverine%20OR%20author%3Amavwolverine)**: flask/fastapi/asgi/sqlalchemy integration
+
+#### [python-docx](https://github.com/python-openxml/python-docx) - python-docx is a Python library for reading, creating, and updating Microsoft Word 2007+ (.docx) files.
+- **[Core Contributions](https://github.com/python-openxml/python-docx/pulls?q=author%3Amavwolverine)**: Enhanced Word document manipulation capabilities
+
+### 🐛 Bug Fixes & Enhancements
+
+| Project | Contribution |
+|---------|--------------|
+| **[Ensembl VEP](https://github.com/Ensembl/ensembl-vep)** | [Performance improvements for FTP file sizes calculation](https://github.com/Ensembl/ensembl-vep/pull/1937) |
+| **[Alexa/ask-cli](https://github.com/alexa/ask-cli)** | [Bug fix in v2.23.0](https://github.com/alexa/ask-cli/compare/v2.22.4...v2.23.0) |
+| **[Apache Tomcat](https://github.com/apache/tomcat)** | Bug fix in JSON format error log [9.0.44](https://tomcat.apache.org/tomcat-9.0-doc/changelog.html) / [10.0.3](https://tomcat.apache.org/tomcat-10.0-doc/changelog.html) |
+| **jQuery UI** | [datepicker IE8 bug fix](https://bugs.jqueryui.com/attachment/ticket/5052/ui.datepicker.ie8.disabled.displaynone.fix.patch/) in [v1.8](https://blog.jqueryui.com/2010/03/jquery-ui-18/) |
+| **[mosquitto-go-auth-oauth2](https://github.com/gewv-tu-dresden/mosquitto-go-auth-oauth2)** | [Added support for mosquitto-go-auth-1.8.0](https://github.com/gewv-tu-dresden/mosquitto-go-auth-oauth2/compare/master...mavwolverine:mosquitto-go-auth-oauth2:master) |
+
+## 📊 GitHub Stats
+
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavwolverine&show_icons=true&theme=dark)
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavwolverine&layout=compact&theme=dark) -->
+
+## Blog
+- 📝 [viraj-workstuff.blogspot.com](http://viraj-workstuff.blogspot.com/)
+
+---
+
+⭐ **If you find my work helpful, consider giving my repositories a star!**<br />
+🤝 **Open to collaboration on interesting projects and open source contributions**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mavwolverine&color=blue)

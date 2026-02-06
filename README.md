@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 🌱 Exploring **Agentic AI**, **rust**, **react**<br>
 👯 Looking to collaborate on **open source projects** and **developer tools**<br>
 💬 Ask me about **Python**, **AWS**, **FastAPI**, **Docker**, and **system architecture**<br>
-⚡ Fun fact: Fun fact: I've been contributing to open source since 2010 (14+ years!) and documenting technical solutions since 2005 on my [blog](https://viraj-workstuff.blogspot.com/)
+⚡ Fun fact: I've been contributing to open source since 2010 (14+ years!) and documenting technical solutions since 2005 on my [blog](https://viraj-workstuff.blogspot.com/)
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, C#, Java, JavaScript, TypeScript<br>
+**Languages**: Python, C#, Java, JavaScript, TypeScript, Shell<br>
 **Frameworks**: FastAPI, Flask, React, Next.js, .NET, Node.js, Django, Pyramid<br>
 **Databases & Caches**: PostgreSQL, MySQL, MongoDB, Redis, Memcached, AWS Timestream<br>
-**GenAI**: Amazon Q Developer, AWS Bedrock, GitHub Copilot, Ollama, Continue.dev<br>
+**GenAI**: Amazon Q Developer/ Kiro CLI, AWS Bedrock, GitHub Copilot, Ollama, Continue.dev, Strands Agents<br>
 **Protocols**: REST, SSE, MQTT, WebRTC<br>
 **DevOps**: AWS, Docker, Kubernetes, Rancher Desktop, AWS CloudFormation, AWS CDK, Terraform, GitHub Actions, Bitbucket Pipelines<br>
 **Observability & Monitoring**: CloudWatch, Grafana, Observe Inc, Sumo Logic, fluentbit<br>

@@ -92,9 +92,11 @@ Here are some ideas to get you started:
 | **jQuery UI** | [datepicker IE8 bug fix](https://bugs.jqueryui.com/attachment/ticket/5052/ui.datepicker.ie8.disabled.displaynone.fix.patch/) in [v1.8](https://blog.jqueryui.com/2010/03/jquery-ui-18/) |
 | **[mosquitto-go-auth-oauth2](https://github.com/gewv-tu-dresden/mosquitto-go-auth-oauth2)** | [Added support for mosquitto-go-auth-1.8.0](https://github.com/gewv-tu-dresden/mosquitto-go-auth-oauth2/compare/master...mavwolverine:mosquitto-go-auth-oauth2:master) |
 
+<!-- 
 ## 📊 GitHub Stats
 
 ![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavwolverine&show_icons=true&theme=dark)
+-->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavwolverine&layout=compact&theme=dark) -->
 

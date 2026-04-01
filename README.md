@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ### 🤝 Major Contributions
 
 #### [SuperTokens](https://github.com/supertokens) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-- **[Performance Optimization](https://github.com/supertokens/supertokens-python/issues/503)**: Improved FastAPI middleware performance by 50%
+- **[Performance Optimization](https://github.com/supertokens/supertokens-python/issues/503)**: Improved FastAPI middleware performance by 70%, reducing infra cost by 35%
 - **[Query Optimization](https://github.com/supertokens/supertokens-core/pull/1095)**: Rewrote database queries eliminating system bottlenecks
 - **[Bug Fixes](https://github.com/supertokens/supertokens-python/pull/555)**: Fixed critical DST-related test failures and authentication issues
 

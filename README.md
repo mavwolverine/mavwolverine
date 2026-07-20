@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
+| [**fast-agent-stack**](https://github.com/mavwolverine/fast-agent-stack) | The full-stack AI framework built on FastAPI | <img src="https://img.shields.io/github/languages/top/mavwolverine/fast-agent-stack?style=social"/> | <img src="https://img.shields.io/github/stars/mavwolverine/fast-agent-stack?style=social"/> |
 | [**wolverine-kit**](https://github.com/mavwolverine/wolverine-kit) | Spec Enforcement Toolkit for AI Coding Agents | <img src="https://img.shields.io/github/languages/top/mavwolverine/wolverine-kit?style=social"/> | <img src="https://img.shields.io/github/stars/mavwolverine/wolverine-kit?style=social"/> |
 | [**fastapi_swagger2**](https://github.com/mavwolverine/fastapi_swagger2) | Swagger2 support for FastAPI - enables legacy API gateway compatibility | <img src="https://img.shields.io/github/languages/top/mavwolverine/fastapi_swagger2?style=social"/> | <img src="https://img.shields.io/github/stars/mavwolverine/fastapi_swagger2?style=social"/> |
 | [**gitx-tauri**](https://github.com/mavwolverine/gitx-tauri) | A modern, cross-platform Git repository viewer inspired by GitX, built with Tauri | <img src="https://img.shields.io/github/languages/top/mavwolverine/gitx-tauri?style=social"/> | <img src="https://img.shields.io/github/stars/mavwolverine/gitx-tauri?style=social"/> |
